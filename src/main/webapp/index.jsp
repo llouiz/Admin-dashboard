@@ -108,8 +108,7 @@
 	<script src="js/jquery.sparkline.js" type="text/javascript"></script>
 	<script src="assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js"></script>
 	<script src="js/owl.carousel.js"></script>
-
-	<
+	
 	<script src="js/fullcalendar.min.js"></script>
 
 	<script src="assets/fullcalendar/fullcalendar/fullcalendar.js"></script>
