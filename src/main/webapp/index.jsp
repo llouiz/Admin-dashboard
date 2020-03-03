@@ -92,7 +92,12 @@
 		</section>
 	</section>
 
-
+	<footer>
+		<div class="text-right"
+			style="position: relative; text-align: center; top: 480px;">
+			Designed by <a href="https://luikz.github.io/me/">Luikz</a>
+		</div>
+	</footer>
 
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery-ui-1.10.4.min.js"></script>
