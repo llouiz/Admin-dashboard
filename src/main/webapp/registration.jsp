@@ -31,7 +31,7 @@
 					value="remember-me"> Remember me <span class="pull-right">	
 					</span></label>
 					
-				<button class="btn btn-info btn-lg btn-block" type="submit" id="myBtn">Signup</button>
+				<button class="btn btn-info btn-lg btn-block" type="submit" id="myBtn">Sign up</button>
 				<p style="color: #000;">Have an account already?</p> 
 				<a href="login.jsp" class="btn btn-primary btn-lg btn-block">Login</a>
 			</div>
