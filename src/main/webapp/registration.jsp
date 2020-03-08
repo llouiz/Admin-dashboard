@@ -5,10 +5,6 @@
 	
 		<form class="login-form" id="contact-form" action="Registration" method="post">
 			<div class="login-wrap">
-				<div style="display: none;" class="alert alert-success alert-dismissible">
-					 <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-					 <strong>Success!</strong> Your account has been created sucessfully.
-				</div>
 				<p class="login-img">
 					<i class="fa fa-user" aria-hidden="true"></i>
 				</p>
@@ -36,17 +32,6 @@
 				<a href="login.jsp" class="btn btn-primary btn-lg btn-block">Login</a>
 			</div>
 		</form>
-		
-		   <script>
-			 	$(document).ready(function() {
-				  $(".alert-success").hide();
-				  $("#myBtn").click(function showAlert() {
-				    $(".alert-success").fadeTo(5000, 500).slideUp(500, function() {
-				      $(".alert-success").slideUp(500);
-				    });
-				  });
-				});
-	        </script>
 		
 		<%@ include file="footer.jsp" %>
 	</div>
