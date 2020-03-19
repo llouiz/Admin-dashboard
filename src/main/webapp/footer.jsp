@@ -9,7 +9,7 @@
 <body>
 		<div class="text-right"
 			style="position: relative; text-align: center; top: 5px;">
-			Designed by <a href="https://luikz.github.io/Personal-Website">Luikz</a>
+			Designed by <a href="https://luikz.github.io/me/">Luikz</a>
 		</div>
 </body>
 </html>
